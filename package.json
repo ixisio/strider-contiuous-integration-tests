@@ -1,0 +1,25 @@
+{
+  "name": "strider-contiuous-integration-tests",
+  "version": "0.0.1",
+  "description": "Hello World App for testing @strider-CD",
+  "main": "index.js",
+  "dependencies": {
+    "strider": "~1.4.5"
+  },
+  "devDependencies": {
+    "mocha": "~1.18.2",
+    "chai": "~1.9.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ixisio/strider-contiuous-integration-tests"
+  },
+  "author": "Andreas Klein <mail@andreasklein.org> (http://andreasklein.org/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ixisio/strider-contiuous-integration-tests/issues"
+  }
+}
